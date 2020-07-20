@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://s30776.pcdn.co/wp-content/uploads/2020/04/AdobeStock_305233591.jpeg)
 
 ## Here is what i'm currently working on
 
