@@ -1,4 +1,7 @@
 ### Hello World 👋
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Here is what i'm currently working on
 
 - 🔭 I’m currently working on ...Github
