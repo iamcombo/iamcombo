@@ -16,4 +16,4 @@ Front-end: Javascript Next.js
 <br/>
 Back-end: Node.js
 
-[![Combo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamcombo)](https://github.com/iamcombo/github-readme-stats)
+[![Combo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamcombo&theme=algolia&show_icons=true)](https://github.com/iamcombo/github-readme-stats)
