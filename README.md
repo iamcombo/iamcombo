@@ -10,9 +10,10 @@
 - 🙌🏼 2021 Goals: Learn a new language
 - ⚡ Fun fact: I love music
 
-# Current Stack:
+### Current Stack:
 
 Front-end: Javascript Next.js
+<br/>
 Back-end: Node.js
 
 [![Combo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamcombo)](https://github.com/iamcombo/github-readme-stats)
