@@ -11,3 +11,5 @@
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...Email: piset2cambo@gmail.com
 - ⚡ Fun fact: ...I love music
+
+[![Combo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamcombo)](https://github.com/iamcombo/github-readme-stats)
