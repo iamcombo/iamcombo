@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![Image of Yaktocat](https://s30776.pcdn.co/wp-content/uploads/2020/04/AdobeStock_305233591.jpeg)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xTcnT45z6H5gxFYZZS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rain-drizzle-xTcnT45z6H5gxFYZZS">via GIPHY</a></p>
 
 ## I'm a Full-Stack Developer who is eager to learn!
 
