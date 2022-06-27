@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![giphy](https://user-images.githubusercontent.com/38589050/175879275-26f36056-23b3-4f4f-a2ef-4426265c9439.gif)
+![debbie-balboa-anime-wallpaper-1920x1080-anime-pixel-art-animated-love-images](https://user-images.githubusercontent.com/38589050/175884997-86ba52e7-bef4-47e9-a3a0-14fa4ed6a5eb.gif)
 
 ## I'm a Full-Stack Developer who is eager to learn!
 
