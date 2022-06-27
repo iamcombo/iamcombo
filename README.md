@@ -12,7 +12,7 @@
 
 ### Current Stack:
 
-Front-end: Javascript React.js Next.js Vue.js Nuxt.js
+Front-end: Javascript React.js Next.js
 <br/>
 Back-end: Node.js
 
