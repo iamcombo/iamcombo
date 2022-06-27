@@ -4,12 +4,6 @@
 
 ## I'm a Full-Stack Developer who is eager to learn!
 
-- 🔭 I’m currently working on Github
-- 🌱 I’m currently learning Design
-- 💬 Ask me about Anything
-- 🙌🏼 2021 Goals: Learn a new language
-- ⚡ Fun fact: I love music
-
 ### Current Stack:
 
 Front-end: Javascript React.js Next.js
