@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-![banner](https://giphy.com/gifs/rain-drizzle-xTcnT45z6H5gxFYZZS/fullscreen)
+![giphy](https://user-images.githubusercontent.com/38589050/175879275-26f36056-23b3-4f4f-a2ef-4426265c9439.gif)
 
 ## I'm a Full-Stack Developer who is eager to learn!
 
