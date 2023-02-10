@@ -1,4 +1,4 @@
-### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" height="18" />
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="" height="18" width="18" />
 
 ![](https://user-images.githubusercontent.com/38589050/189494272-c6b31df5-90c5-49f2-a515-fa01baa557a7.gif)
 
