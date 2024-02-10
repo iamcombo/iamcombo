@@ -2,8 +2,6 @@
 
 ![](https://user-images.githubusercontent.com/38589050/189494272-c6b31df5-90c5-49f2-a515-fa01baa557a7.gif)
 
-## I'm a Full-Stack Developer who is eager to learn!
-
 ### Connect with me:
 
 [<img align="left" alt="website" width="25px" src="./assets/globe-dark.svg" style="padding-right:8px;" />](#gh-dark-mode-only)
